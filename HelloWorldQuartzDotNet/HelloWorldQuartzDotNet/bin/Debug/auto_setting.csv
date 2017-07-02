@@ -1,0 +1,4 @@
+name,cron_expression,file_path
+auto1,0 * * * * ? *,D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\Data\02072017-214129
+auto2,20 * * * * ? *,D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\Data\02072017-214136
+auto3,40 * * * * ? *,D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\Data\02072017-215459
