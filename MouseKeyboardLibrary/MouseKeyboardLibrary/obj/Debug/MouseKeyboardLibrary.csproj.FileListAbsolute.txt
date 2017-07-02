@@ -17,3 +17,7 @@ D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeybo
 D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
 D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
 D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb

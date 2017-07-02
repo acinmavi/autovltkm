@@ -86,6 +86,14 @@ namespace GlobalMacroRecorder
             else if (keyData == Keys.F9)
             {
                 isStart = !isStart;
+                if (isStart)
+                {
+                    recordStartButton_Click(null, null);
+                }
+                else
+                {
+                    recordStopButton_Click(null, null);
+                }
                
             }
             
@@ -97,16 +105,7 @@ namespace GlobalMacroRecorder
             {
                 btReadFromFile_Click(null, null);
             }
-           
-           
-            if (isStart)
-            {
-                recordStartButton_Click(null, null);
-            }
-            else
-            {
-                recordStopButton_Click(null, null);
-            }
+            
 		}
 
 		private void keyboardHook_KeyUp(object sender, KeyEventArgs e)
@@ -137,7 +136,7 @@ namespace GlobalMacroRecorder
 			ots.Events = events;
 
             //string filePath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\test";
-            string filePath = Environment.CurrentDirectory + "\\data\\" + DateTime.Now.ToString("ddMMyyyy-HHmmss");
+            string filePath = Environment.CurrentDirectory + "\\Data\\" + DateTime.Now.ToString("ddMMyyyy-HHmmss");
 			ConvertEvent(events);
 			SerializeObject(filePath, ots);
 

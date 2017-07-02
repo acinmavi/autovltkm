@@ -24,3 +24,17 @@ D:\Setup\AutoGame\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common
 D:\Setup\AutoGame\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\log4net.dll
 D:\Setup\AutoGame\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common.Logging.Core.dll
 D:\Setup\AutoGame\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Quartz.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\HelloWorldQuartzDotNet.exe.config
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\obj\Debug\HelloWorldQuartzDotNet.exe
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\obj\Debug\HelloWorldQuartzDotNet.pdb
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\HelloWorldQuartzDotNet.exe
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\HelloWorldQuartzDotNet.pdb
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\C5.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common.Logging.Core.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common.Logging.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common.Logging.Log4Net.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\log4net.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\MouseKeyboardLibrary.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Quartz.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\MouseKeyboardLibrary.pdb
+D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\obj\Debug\HelloWorldQuartzDotNet.csprojResolveAssemblyReference.cache

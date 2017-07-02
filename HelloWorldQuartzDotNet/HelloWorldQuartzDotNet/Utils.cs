@@ -20,8 +20,9 @@ namespace HelloWorldQuartzDotNet
     {
         public static bool isCancel = false;
 
-        public static void ReadCsvFile(string csvPath, bool ignoreTitle)
+        public static List<SettingPo> ReadCsvFile(string csvPath, bool ignoreTitle)
         {
+            List<SettingPo> r = new List<SettingPo>();
             bool checkFirstLine = false;
             using (var reader = new StreamReader(csvPath))
             {
@@ -34,11 +35,19 @@ namespace HelloWorldQuartzDotNet
                         checkFirstLine = true;
                         continue;
                     }
-                    var values = line.Split(',');
                     Console.WriteLine(line);
-                    Console.WriteLine();
+                    var values = line.Split(',');
+                    if (values.Length >= 3)
+                    {
+                        SettingPo po = new SettingPo();
+                        po.Name = values[0];
+                        po.CrontExp = values[1];
+                        po.FilePath = values[2];
+                        r.Add(po);
+                    }
                 }
             }
+            return r;
         }
 
         [DllImport("user32.dll")]

@@ -15,13 +15,13 @@ namespace HelloWorldQuartzDotNet
         {
             try
             {
-                Utils.ReadCsvFile("D:\\test_auto.csv", true);
-                Utils.MoveOnForeground("koplayer");
-                Utils.ScheduleJob("test", "0/20 * * * * ? *", @"D:\Setup\AutoGame\MouseKeyboardLibrary\AutoVL\bin\Debug\Data\02072017-214129");
-
-
+                string path = args.Length > 0 ? args[0] : "D:\\auto_setting.csv";
+                List<SettingPo> settings = Utils.ReadCsvFile(path, true);
+                foreach (var item in settings)
+                {
+                    Utils.ScheduleJob(item.Name, item.CrontExp, item.FilePath);
+                }
                 Console.ReadKey();
-
             }  catch (Exception ex)
                 {
                     Console.WriteLine("Failed: {0}", ex.Message);

@@ -7,3 +7,12 @@ D:\Setup\AutoGame\MouseKeyboardLibrary\AutoVL\obj\Debug\GlobalMacroRecorder.Macr
 D:\Setup\AutoGame\MouseKeyboardLibrary\AutoVL\obj\Debug\AutoVL.Properties.Resources.resources
 D:\Setup\AutoGame\MouseKeyboardLibrary\AutoVL\obj\Debug\AutoVL.csproj.GenerateResource.Cache
 D:\Setup\AutoGame\MouseKeyboardLibrary\AutoVL\obj\Debug\AutoVL.exe
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\AutoVL.exe.config
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\AutoVL.exe
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\MouseKeyboardLibrary.dll
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\MouseKeyboardLibrary.pdb
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\obj\Debug\AutoVL.csprojResolveAssemblyReference.cache
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\obj\Debug\AutoVL.Properties.Resources.resources
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\obj\Debug\AutoVL.csproj.GenerateResource.Cache
+D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\obj\Debug\AutoVL.exe
