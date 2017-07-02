@@ -1,0 +1,40 @@
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Properties.Resources.resources
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.pdb
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.pdb
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.pdb
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.pdb
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.pdb
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.pdb
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Properties.Resources.resources
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe.config
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.pdb
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Properties.Resources.resources
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csproj.GenerateResource.Cache
+C:\Users\du\Desktop\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\ResolveAssemblyReference.cache
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe.config
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.pdb
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csprojResolveAssemblyReference.cache
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Properties.Resources.resources
+D:\Setup\AutoGame\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csproj.GenerateResource.Cache

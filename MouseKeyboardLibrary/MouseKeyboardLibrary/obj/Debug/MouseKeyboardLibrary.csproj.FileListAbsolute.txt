@@ -1,0 +1,19 @@
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+C:\Users\vtit_dungnt77\Downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+E:\Dropbox\DungNT\My Project\Demo\C# mouse-keyboard lib\MouseKeyboardLibraryV2\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+C:\Users\du\Desktop\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\du\Desktop\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+C:\Users\du\Desktop\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+C:\Users\du\Desktop\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+C:\Users\du\Desktop\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+D:\Setup\AutoGame\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb

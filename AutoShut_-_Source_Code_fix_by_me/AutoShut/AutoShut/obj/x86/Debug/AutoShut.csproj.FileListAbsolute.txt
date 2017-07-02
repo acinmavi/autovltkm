@@ -1,0 +1,59 @@
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\bin\Debug\AutoShut.exe
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\bin\Debug\AutoShut.pdb
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\AutoShut.frmAutoShut.resources
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\AutoShut.Properties.Resources.resources
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\AutoShut.exe
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\AutoShut.pdb
+J:\AutoShut\AutoShut\obj\x86\Debug\AutoShut.exe
+J:\AutoShut\AutoShut\obj\x86\Debug\AutoShut.pdb
+J:\AutoShut\AutoShut\bin\Debug\AutoShut.exe
+J:\AutoShut\AutoShut\bin\Debug\AutoShut.pdb
+J:\AutoShut\AutoShut\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\AutoShut\AutoShut\obj\x86\Debug\AutoShut.frmAutoShut.resources
+J:\AutoShut\AutoShut\obj\x86\Debug\AutoShut.Properties.Resources.resources
+J:\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\AutoShut.exe
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\AutoShut.pdb
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\bin\Debug\AutoShut.exe
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\bin\Debug\AutoShut.pdb
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\AutoShut.frmAutoShut.resources
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\AutoShut.Properties.Resources.resources
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\AutoShut.AboutBox1.resources
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\AutoShut.AboutBox1.resources
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\AutoShut.frmShutNow.resources
+C:\Users\Amjad\Desktop\AutoShut\AutoShut\obj\x86\Debug\AutoShut.Last_Chance_to_Cancel.resources
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\AutoShut.exe
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\AutoShut.pdb
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\AutoShut.AboutBox1.resources
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\AutoShut.frmAutoShut.resources
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\AutoShut.frmShutNow.resources
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\AutoShut.Last_Chance_to_Cancel.resources
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\AutoShut.Properties.Resources.resources
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\bin\Debug\AutoShut.exe
+C:\Users\Amjad\Desktop\AutoShut 2 - Copy\AutoShut\bin\Debug\AutoShut.pdb
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\AutoShut.frmShutNow.resources
+E:\My Customizations\University Files\Semester 6\KBS\My Work\AutoShut\AutoShut\obj\x86\Debug\AutoShut.Last_Chance_to_Cancel.resources
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\AutoShut.exe
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\AutoShut.pdb
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\bin\Debug\AutoShut.exe
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\bin\Debug\AutoShut.pdb
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\AutoShut.AboutBox1.resources
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\AutoShut.frmAutoShut.resources
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\AutoShut.frmShutNow.resources
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\AutoShut.Last_Chance_to_Cancel.resources
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\AutoShut.Properties.Resources.resources
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\tai lieu\My HandMade Soft\References\C#\C# autoshut\AutoShut_-_Source_Code\AutoShut\AutoShut\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Setup\AutoGame\AutoShut_-_Source_Code_fix_by_me\AutoShut\AutoShut\obj\x86\Debug\AutoShut.exe
+D:\Setup\AutoGame\AutoShut_-_Source_Code_fix_by_me\AutoShut\AutoShut\obj\x86\Debug\AutoShut.pdb
