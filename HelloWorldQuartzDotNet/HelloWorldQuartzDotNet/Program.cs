@@ -16,10 +16,11 @@ namespace HelloWorldQuartzDotNet
             try
             {
                 string path = args.Length > 0 ? args[0] : "D:\\auto_setting.csv";
+                bool captureAfterFinishJob = args.Length > 1 ? (args[1].ToUpper().Contains("TRUE")) : true;
                 List<SettingPo> settings = Utils.ReadCsvFile(path, true);
                 foreach (var item in settings)
                 {
-                    Utils.ScheduleJob(item.Name, item.CrontExp, item.FilePath);
+                    Utils.ScheduleJob(item.Name, item.CrontExp, item.FilePath, captureAfterFinishJob);
                 }
                 Console.ReadKey();
             }  catch (Exception ex)

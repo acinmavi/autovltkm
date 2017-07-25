@@ -3,12 +3,10 @@ using System;
 
 namespace HelloWorldQuartzDotNet
 {
-    class AutoJob : IJob
+    class CaptureJob : IJob
     {
         private string jobName;
-        private string activityPath;
-        private bool captureAfterFinishJob;
-        public AutoJob()
+        public CaptureJob()
         {
         }
 
@@ -18,8 +16,6 @@ namespace HelloWorldQuartzDotNet
             {
                 JobDataMap dataMap = context.JobDetail.JobDataMap;
                 jobName = dataMap.GetString("jobName");
-                activityPath = dataMap.GetString("activityPath");
-                captureAfterFinishJob = dataMap.GetBoolean("captureAfterFinishJob");
 
                 Console.WriteLine("{0}****{0}Job {1} fired @ {2} next scheduled for {3}{0}***{0}", 
                                                                         Environment.NewLine,
@@ -28,9 +24,9 @@ namespace HelloWorldQuartzDotNet
                                                                         context.NextFireTimeUtc.Value.ToString("r"));
 
 
-                Console.WriteLine("name " + jobName + " , activityPath " + activityPath);
-                Utils.RunFile(activityPath, 1);
-                if (captureAfterFinishJob) Utils.CaptureAndMail();
+                Utils.CaptureAndMail();
+                Console.WriteLine("name " + jobName + " is finish");
+
             }
             catch (Exception ex)
             {

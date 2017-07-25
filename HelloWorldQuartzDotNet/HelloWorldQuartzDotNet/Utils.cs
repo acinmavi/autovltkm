@@ -14,11 +14,69 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using MouseKeyboardLibrary;
 using System.Windows.Forms;
+using System.Net.Mime;
+using System.Net.Mail;
+using System.Net;
+using System;
+using System.Drawing;
+using System.Drawing.Imaging;
 namespace HelloWorldQuartzDotNet
 {
     class Utils
     {
         public static bool isCancel = false;
+        public static string RECIPIENT = "noreplyteacher@gmail.com";
+        public static string MAIL_SUBJECT = "[AutoReport] ";
+
+        //smtp client configuration
+        public static string SMTP_CLIENT = "smtp.gmail.com";
+        public static int SMTP_PORT = 587;
+        public static string USERNAME = "noreplyteacher@gmail.com";
+        public static string PASSWORD = "1234567890a@";
+        public static string CAPTURE_JOB = "CAPTURE_JOB";
+        public static void CaptureAndMail()
+        {
+            try
+            {
+                //print the screen
+                Bitmap printscreen = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
+                Graphics graphics = Graphics.FromImage(printscreen as Image);
+                graphics.CopyFromScreen(0, 0, 0, 0, printscreen.Size);
+                string path = Path.GetTempFileName();
+                printscreen.Save(path, ImageFormat.Jpeg);
+
+                //Send the mail with attachment
+                MailMessage mm = new MailMessage();
+                mm.From = new MailAddress(USERNAME);
+                mm.To.Add(RECIPIENT);
+
+                mm.Subject = MAIL_SUBJECT + DateTime.Now.ToString("yyyyMMdd HH:mm:ss");
+                mm.Body = mm.Subject;
+
+                mm.IsBodyHtml = true;
+
+                Attachment att = new Attachment(path, MediaTypeNames.Image.Jpeg);
+                mm.Attachments.Add(att);
+
+                sendEmail(mm);
+
+                mm.Dispose();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+        }
+
+        public static void sendEmail(MailMessage mm)
+        {
+            var client = new SmtpClient(SMTP_CLIENT, SMTP_PORT)
+            {
+                Credentials = new NetworkCredential(USERNAME, PASSWORD),
+                EnableSsl = true
+            };
+            client.Send(mm);
+        }
 
         public static List<SettingPo> ReadCsvFile(string csvPath, bool ignoreTitle)
         {
@@ -88,7 +146,7 @@ namespace HelloWorldQuartzDotNet
             return;
         }
 
-        public static void ScheduleJob(string name, string crontExp, string activityPath)
+        public static void ScheduleJob(string name, string crontExp, string activityPath, bool captureAfterFinishJob)
         {
             // Get an instance of the Quartz.Net scheduler
             var schd = StdSchedulerFactory.GetDefaultScheduler();
@@ -98,12 +156,25 @@ namespace HelloWorldQuartzDotNet
                 schd.Start();
 
             // Define the Job to be scheduled
-            var job = JobBuilder.Create<AutoJob>()
+            IJobDetail job = null;
+            if (activityPath.Contains(CAPTURE_JOB))
+            {
+                job = JobBuilder.Create<CaptureJob>()
+                                .WithIdentity(name, name)
+                                .UsingJobData("jobName", name)
+                                .RequestRecovery()
+                                .Build();
+            }
+            else
+            {
+                job = JobBuilder.Create<AutoJob>()
                 .WithIdentity(name, name)
                 .UsingJobData("jobName", name)
                 .UsingJobData("activityPath", activityPath)
+                .UsingJobData("captureAfterFinishJob", captureAfterFinishJob)
                 .RequestRecovery()
                 .Build();
+            }
 
             // Associate a trigger with the Job
             var trigger = (ICronTrigger)TriggerBuilder.Create()
