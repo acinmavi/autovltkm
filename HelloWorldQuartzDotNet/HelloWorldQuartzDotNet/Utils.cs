@@ -39,9 +39,16 @@ namespace HelloWorldQuartzDotNet
             try
             {
                 //print the screen
-                Bitmap printscreen = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
+                Bitmap printscreen = new Bitmap(SystemInformation.VirtualScreen.Width,
+                               SystemInformation.VirtualScreen.Height,
+                               PixelFormat.Format32bppArgb);
                 Graphics graphics = Graphics.FromImage(printscreen as Image);
-                graphics.CopyFromScreen(0, 0, 0, 0, printscreen.Size);
+                graphics.CopyFromScreen(SystemInformation.VirtualScreen.X,
+                           SystemInformation.VirtualScreen.Y,
+                           0,
+                           0,
+                           SystemInformation.VirtualScreen.Size,
+                           CopyPixelOperation.SourceCopy);
                 string path = Path.GetTempFileName();
                 printscreen.Save(path, ImageFormat.Jpeg);
 
