@@ -25,7 +25,6 @@ namespace HelloWorldQuartzDotNet
     class Utils
     {
         public static bool isCancel = false;
-        public static string RECIPIENT = "noreplyteacher@gmail.com";
         public static string MAIL_SUBJECT = "[AutoReport] ";
 
         //smtp client configuration
@@ -34,6 +33,8 @@ namespace HelloWorldQuartzDotNet
         public static string USERNAME = "noreplyteacher@gmail.com";
         public static string PASSWORD = "1234567890a@";
         public static string CAPTURE_JOB = "CAPTURE_JOB";
+        public static string PRINT_SCREEN = "PRINT_SCREEN_";
+        public static string IMAGE_PATH = "D:\\logs\\tmp";
         public static void CaptureAndMail()
         {
             try
@@ -49,15 +50,17 @@ namespace HelloWorldQuartzDotNet
                            0,
                            SystemInformation.VirtualScreen.Size,
                            CopyPixelOperation.SourceCopy);
-                string path = Path.GetTempFileName();
+                System.IO.Directory.CreateDirectory(IMAGE_PATH);
+
+                string path = Path.Combine(IMAGE_PATH, PRINT_SCREEN + DateTime.Now.ToString("yyyyMMdd_HHmmss") +".jpg");
                 printscreen.Save(path, ImageFormat.Jpeg);
 
                 //Send the mail with attachment
                 MailMessage mm = new MailMessage();
                 mm.From = new MailAddress(USERNAME);
-                mm.To.Add(RECIPIENT);
+                mm.To.Add(USERNAME);
 
-                mm.Subject = MAIL_SUBJECT + DateTime.Now.ToString("yyyyMMdd HH:mm:ss");
+                mm.Subject = "[" + System.Environment.MachineName +"]"+ MAIL_SUBJECT + DateTime.Now.ToString("yyyyMMdd HH:mm:ss");
                 mm.Body = mm.Subject;
 
                 mm.IsBodyHtml = true;
@@ -68,6 +71,8 @@ namespace HelloWorldQuartzDotNet
                 sendEmail(mm);
 
                 mm.Dispose();
+                printscreen.Dispose();
+                graphics.Dispose();
             }
             catch (Exception ex)
             {

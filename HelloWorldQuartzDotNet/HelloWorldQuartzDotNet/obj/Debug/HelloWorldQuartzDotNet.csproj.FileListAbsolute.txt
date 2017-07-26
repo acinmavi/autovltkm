@@ -38,3 +38,16 @@ D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDot
 D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Quartz.dll
 D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\MouseKeyboardLibrary.pdb
 D:\Setup\AutoGame\AutoVltkm\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\obj\Debug\HelloWorldQuartzDotNet.csprojResolveAssemblyReference.cache
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\HelloWorldQuartzDotNet.exe.config
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\obj\Debug\HelloWorldQuartzDotNet.exe
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\obj\Debug\HelloWorldQuartzDotNet.pdb
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\HelloWorldQuartzDotNet.exe
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\HelloWorldQuartzDotNet.pdb
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\C5.dll
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common.Logging.Core.dll
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common.Logging.dll
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Common.Logging.Log4Net.dll
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\log4net.dll
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\MouseKeyboardLibrary.dll
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\Quartz.dll
+D:\All\checking\private\AutoVLTKM\autovltkm\HelloWorldQuartzDotNet\HelloWorldQuartzDotNet\bin\Debug\MouseKeyboardLibrary.pdb
