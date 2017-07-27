@@ -32,7 +32,7 @@ namespace HelloWorldQuartzDotNet
                 Utils.RunFile(activityPath, 1);
                 if (captureAfterFinishJob)
                 {
-                    Thread.Sleep(5000);
+                    Thread.Sleep(20000);
                     Utils.CaptureAndMail(jobName);
                 }
             }

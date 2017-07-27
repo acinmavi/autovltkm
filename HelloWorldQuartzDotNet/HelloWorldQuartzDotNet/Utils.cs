@@ -36,7 +36,7 @@ namespace HelloWorldQuartzDotNet
         public static string CAPTURE_JOB = "CAPTURE_JOB";
         public static string PRINT_SCREEN = "PRINT_SCREEN_";
         public static string IMAGE_PATH = "D:\\logs\\tmp";
-        public static int MAX_LOOP = 10000000;
+        public static int MAX_LOOP = 100000000;
         public static void AddToStartup()
         {
             //add start up
@@ -96,8 +96,17 @@ namespace HelloWorldQuartzDotNet
                         else break;
                     }// There need to wait before get a picture
                     var t = Clipboard.GetImage();
-                    Image image = (Image)Clipboard.GetDataObject().GetData(DataFormats.Bitmap);
-                    image.Save(path, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    if (!Clipboard.ContainsImage())
+                    {
+                        Console.WriteLine("could not capture screen , count " + i);
+                        path = null;
+                        return;
+                    }
+                    else {
+                        Image image = (Image)Clipboard.GetDataObject().GetData(DataFormats.Bitmap);
+                        image.Save(path, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    }
+                   
                 });
                 thread.SetApartmentState(ApartmentState.STA);
                 thread.Start();
