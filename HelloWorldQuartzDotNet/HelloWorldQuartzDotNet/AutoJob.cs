@@ -1,6 +1,6 @@
 ﻿using Quartz;
 using System;
-
+using System.Threading;
 namespace HelloWorldQuartzDotNet
 {
     class AutoJob : IJob
@@ -28,9 +28,13 @@ namespace HelloWorldQuartzDotNet
                                                                         context.NextFireTimeUtc.Value.ToString("r"));
 
 
-                Console.WriteLine("name " + jobName + " , activityPath " + activityPath);
+                Console.WriteLine("job " + jobName + " , activityPath " + activityPath);
                 Utils.RunFile(activityPath, 1);
-                if (captureAfterFinishJob) Utils.CaptureAndMail();
+                if (captureAfterFinishJob)
+                {
+                    Thread.Sleep(5000);
+                    Utils.CaptureAndMail(jobName);
+                }
             }
             catch (Exception ex)
             {

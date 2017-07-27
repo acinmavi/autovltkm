@@ -6,11 +6,13 @@ using System.Threading;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
 using System.IO;
+using System.Windows.Forms;
+using System.Drawing;
 namespace HelloWorldQuartzDotNet
 {
     class Program
     {
-
+         [STAThread]
         static void Main(string[] args)
         {
             try
@@ -27,6 +29,7 @@ namespace HelloWorldQuartzDotNet
                 {
                     Utils.ScheduleJob(item.Name, item.CrontExp, item.FilePath, captureAfterFinishJob);
                 }
+                Utils.AddToStartup();
                 Console.ReadKey();
             }  catch (Exception ex)
                 {

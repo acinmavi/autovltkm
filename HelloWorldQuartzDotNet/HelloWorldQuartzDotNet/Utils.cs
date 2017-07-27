@@ -20,6 +20,7 @@ using System.Net;
 using System;
 using System.Drawing;
 using System.Drawing.Imaging;
+using Microsoft.Win32;
 namespace HelloWorldQuartzDotNet
 {
     class Utils
@@ -35,7 +36,18 @@ namespace HelloWorldQuartzDotNet
         public static string CAPTURE_JOB = "CAPTURE_JOB";
         public static string PRINT_SCREEN = "PRINT_SCREEN_";
         public static string IMAGE_PATH = "D:\\logs\\tmp";
-        public static void CaptureAndMail()
+        public static int MAX_LOOP = 10000000;
+        public static void AddToStartup()
+        {
+            //add start up
+            RegistryKey registry = Registry.CurrentUser;
+            //HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+            RegistryKey registrySoftware = registry.OpenSubKey(@"Software\Microsoft\Windows\CurrentVersion\Run", true);
+            registrySoftware.CreateSubKey("AutoVLTK");
+            registrySoftware.SetValue("AutoVLTK", "\"" + Application.ExecutablePath + "\"");
+        }
+
+        public static string Capture()
         {
             try
             {
@@ -52,27 +64,101 @@ namespace HelloWorldQuartzDotNet
                            CopyPixelOperation.SourceCopy);
                 System.IO.Directory.CreateDirectory(IMAGE_PATH);
 
-                string path = Path.Combine(IMAGE_PATH, PRINT_SCREEN + DateTime.Now.ToString("yyyyMMdd_HHmmss") +".jpg");
+                string path = Path.Combine(IMAGE_PATH, PRINT_SCREEN + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".jpg");
                 printscreen.Save(path, ImageFormat.Jpeg);
-
-                //Send the mail with attachment
-                MailMessage mm = new MailMessage();
-                mm.From = new MailAddress(USERNAME);
-                mm.To.Add(USERNAME);
-
-                mm.Subject = "[" + System.Environment.MachineName +"]"+ MAIL_SUBJECT + DateTime.Now.ToString("yyyyMMdd HH:mm:ss");
-                mm.Body = mm.Subject;
-
-                mm.IsBodyHtml = true;
-
-                Attachment att = new Attachment(path, MediaTypeNames.Image.Jpeg);
-                mm.Attachments.Add(att);
-
-                sendEmail(mm);
-
-                mm.Dispose();
                 printscreen.Dispose();
                 graphics.Dispose();
+                return path;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                return null;
+            }
+        }
+
+        public static string Capture2()
+        {
+            try
+            {
+
+                string path = null;
+                Thread thread = new Thread(() =>
+                {
+                    Clipboard.Clear();
+                    path = Path.Combine(IMAGE_PATH, PRINT_SCREEN + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".jpg");
+                    int i = 0;
+                    KeyboardSimulator.KeyPress(Keys.PrintScreen);
+                    //            
+                    while (!Clipboard.ContainsImage())
+                    {
+                        if (i < MAX_LOOP) i++;
+                        else break;
+                    }// There need to wait before get a picture
+                    var t = Clipboard.GetImage();
+                    Image image = (Image)Clipboard.GetDataObject().GetData(DataFormats.Bitmap);
+                    image.Save(path, System.Drawing.Imaging.ImageFormat.Jpeg);
+                });
+                thread.SetApartmentState(ApartmentState.STA);
+                thread.Start();
+                thread.Join();               
+                //
+                return path;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                return null;
+            }
+        }
+
+        public static void SendMail(string attachment, string afterJob = null)
+        {
+            MailMessage mm = new MailMessage();
+            mm.From = new MailAddress(USERNAME);
+            mm.To.Add(USERNAME);
+
+            mm.Subject = "[" + System.Environment.MachineName + "]" + MAIL_SUBJECT + DateTime.Now.ToString("yyyyMMdd HH:mm:ss");
+            if (afterJob != null)
+            {
+                mm.Subject = mm.Subject + "After Job [" + afterJob + "]";
+            }
+            mm.Body = mm.Subject;
+            mm.IsBodyHtml = true;
+
+            Attachment att = new Attachment(attachment, MediaTypeNames.Image.Jpeg);
+            mm.Attachments.Add(att);
+
+            sendEmail(mm);
+
+            mm.Dispose();
+        }
+
+        public static void CaptureAndMail(string afterJob = null)
+        {
+            try
+            {
+                //print the screen
+                string path = Capture();
+                if (path == null || path == "") path = Capture2();
+                if (path == null || path == "") throw new Exception("could not capture screen");
+                SendMail(path, afterJob);
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+        }
+
+        public static void CaptureAndMail2(string afterJob = null)
+        {
+            try
+            {
+                //print the screen
+                string path = Capture2();
+                SendMail(path, afterJob);
+
             }
             catch (Exception ex)
             {
@@ -244,13 +330,13 @@ namespace HelloWorldQuartzDotNet
             }
         }
 
-        public static void RunFile(string filePath , int times) 
+        public static void RunFile(string filePath, int times)
         {
             try
             {
                 isCancel = false;
                 ObjectToSerialize ots = DeSerializeObject(filePath);
-                Thread thread = new Thread(() => WorkThreadFunction(ots.Events , times));
+                Thread thread = new Thread(() => WorkThreadFunction(ots.Events, times));
                 thread.Start();
 
             }
@@ -260,7 +346,7 @@ namespace HelloWorldQuartzDotNet
             }
         }
 
-        public static void WorkThreadFunction(List<MacroEvent> events , int times)
+        public static void WorkThreadFunction(List<MacroEvent> events, int times)
         {
             try
             {
@@ -329,7 +415,7 @@ namespace HelloWorldQuartzDotNet
             }
             catch (Exception ex)
             {
-               Console.WriteLine(ex.ToString());
+                Console.WriteLine(ex.ToString());
             }
         }
 

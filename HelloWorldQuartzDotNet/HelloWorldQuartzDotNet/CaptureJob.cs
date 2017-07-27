@@ -25,7 +25,7 @@ namespace HelloWorldQuartzDotNet
 
 
                 Utils.CaptureAndMail();
-                Console.WriteLine("name " + jobName + " is finish");
+                Console.WriteLine("job " + jobName + " is finish");
 
             }
             catch (Exception ex)
