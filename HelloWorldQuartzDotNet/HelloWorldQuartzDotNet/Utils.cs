@@ -47,8 +47,9 @@ namespace HelloWorldQuartzDotNet
             registrySoftware.SetValue("AutoVLTK", "\"" + Application.ExecutablePath + "\"");
         }
 
-        public static string Capture()
+        public static List<string> Capture()
         {
+            List<string> paths = new List<string>();
             try
             {
                 //print the screen
@@ -66,18 +67,58 @@ namespace HelloWorldQuartzDotNet
 
                 string path = Path.Combine(IMAGE_PATH, PRINT_SCREEN + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".jpg");
                 printscreen.Save(path, ImageFormat.Jpeg);
+                paths.Add(path);
                 printscreen.Dispose();
                 graphics.Dispose();
-                return path;
+                
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
-                return null;
             }
+            return paths;
         }
 
-        public static string Capture2()
+        public static List<string> Capture2()
+        {
+            List<string> paths = new List<string>();
+            try
+            {
+                System.IO.Directory.CreateDirectory(IMAGE_PATH);
+                for (int i = 0; i < Screen.AllScreens.Length; i++)
+                {
+                    Screen screen = Screen.AllScreens[i];
+                    //print the screen
+                    //Create a new bitmap.
+                    var bmpScreenshot = new Bitmap(screen.Bounds.Width,
+                                                   screen.Bounds.Height,
+                                                   PixelFormat.Format32bppArgb);
+
+                    // Create a graphics object from the bitmap.
+                    var gfxScreenshot = Graphics.FromImage(bmpScreenshot);
+
+                    // Take the screenshot from the upper left corner to the right bottom corner.
+                    gfxScreenshot.CopyFromScreen(screen.Bounds.X,
+                                                screen.Bounds.Y,
+                                                0,
+                                                0,
+                                                screen.Bounds.Size,
+                                                CopyPixelOperation.SourceCopy);
+                   
+                    string path = Path.Combine(IMAGE_PATH, PRINT_SCREEN + DateTime.Now.ToString("yyyyMMdd_HHmmss") + "_" + i + ".jpg");
+                    bmpScreenshot.Save(path, ImageFormat.Jpeg);
+                    paths.Add(path); 
+                }
+                
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+            return paths;
+        }
+
+        public static string Capture3()
         {
             try
             {
@@ -121,7 +162,7 @@ namespace HelloWorldQuartzDotNet
             }
         }
 
-        public static void SendMail(string attachment, string afterJob = null)
+        public static void SendMail(List<string> attachments, string afterJob = null)
         {
             MailMessage mm = new MailMessage();
             mm.From = new MailAddress(USERNAME);
@@ -134,12 +175,14 @@ namespace HelloWorldQuartzDotNet
             }
             mm.Body = mm.Subject;
             mm.IsBodyHtml = true;
+            foreach (var attachment in attachments)
+            {
+                Attachment att = new Attachment(attachment, MediaTypeNames.Image.Jpeg);
+                mm.Attachments.Add(att);
 
-            Attachment att = new Attachment(attachment, MediaTypeNames.Image.Jpeg);
-            mm.Attachments.Add(att);
+            }
 
             sendEmail(mm);
-
             mm.Dispose();
         }
 
@@ -148,25 +191,13 @@ namespace HelloWorldQuartzDotNet
             try
             {
                 //print the screen
-                string path = Capture();
-                if (path == null || path == "") path = Capture2();
-                if (path == null || path == "") throw new Exception("could not capture screen");
-                SendMail(path, afterJob);
-
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-            }
-        }
-
-        public static void CaptureAndMail2(string afterJob = null)
-        {
-            try
-            {
-                //print the screen
-                string path = Capture2();
-                SendMail(path, afterJob);
+                List<string> paths = Capture();
+                if (paths == null || paths.Count <= 0) paths = Capture2();
+                if (paths == null || paths.Count <= 0)
+                {
+                    Console.WriteLine("could not capture screen.....");
+                }
+                SendMail(paths, afterJob);
 
             }
             catch (Exception ex)
