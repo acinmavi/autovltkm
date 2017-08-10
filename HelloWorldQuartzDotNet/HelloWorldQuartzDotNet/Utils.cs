@@ -34,9 +34,185 @@ namespace HelloWorldQuartzDotNet
         public static string USERNAME = "noreplyteacher@gmail.com";
         public static string PASSWORD = "1234567890a@";
         public static string CAPTURE_JOB = "CAPTURE_JOB";
+        public static string ACTIVITY_JOB = "ACTIVITY_JOB";
         public static string PRINT_SCREEN = "PRINT_SCREEN_";
         public static string IMAGE_PATH = "D:\\logs\\tmp";
+        public static string SNAGIT = "C:\\Program Files (x86)\\TechSmith\\Snagit 11\\Snagit32.exe";
         public static int MAX_LOOP = 100000000;
+        public static int MAX_IDLE_TIME_SECOND = 60;
+        // mouse move using send message
+        [DllImport("user32.dll")]
+    static extern IntPtr GetMessageExtraInfo();
+
+    [DllImport("user32.dll", SetLastError = true)]
+    static extern uint SendInput(uint nInputs, ref INPUT pInputs, int cbSize);
+
+    [DllImport("user32.dll")]
+    public static extern bool SetCursorPos(int X, int Y);
+
+    [Flags]
+    public enum MouseEventFlags
+    {
+        LEFTDOWN = 0x00000002,
+        LEFTUP = 0x00000004,
+        MIDDLEDOWN = 0x00000020,
+        MIDDLEUP = 0x00000040,
+        MOVE = 0x00000001,
+        ABSOLUTE = 0x00008000,
+        RIGHTDOWN = 0x00000008,
+        RIGHTUP = 0x00000010
+    }
+
+    /// <summary>
+    /// The event type contained in the union field
+    /// </summary>
+    enum SendInputEventType : int
+    {
+        /// <summary>
+        /// Contains Mouse event data
+        /// </summary>
+        InputMouse,
+        /// <summary>
+        /// Contains Keyboard event data
+        /// </summary>
+        InputKeyboard,
+        /// <summary>
+        /// Contains Hardware event data
+        /// </summary>
+        InputHardware
+    }
+
+
+    /// <summary>
+    /// The mouse data structure
+    /// </summary>
+    [StructLayout(LayoutKind.Sequential)]
+    struct MouseInputData
+    {
+        /// <summary>
+        /// The x value, if ABSOLUTE is passed in the flag then this is an actual X and Y value
+        /// otherwise it is a delta from the last position
+        /// </summary>
+        public int dx;
+        /// <summary>
+        /// The y value, if ABSOLUTE is passed in the flag then this is an actual X and Y value
+        /// otherwise it is a delta from the last position
+        /// </summary>
+        public int dy;
+        /// <summary>
+        /// Wheel event data, X buttons
+        /// </summary>
+        public uint mouseData;
+        /// <summary>
+        /// ORable field with the various flags about buttons and nature of event
+        /// </summary>
+        public MouseEventFlags dwFlags;
+        /// <summary>
+        /// The timestamp for the event, if zero then the system will provide
+        /// </summary>
+        public uint time;
+        /// <summary>
+        /// Additional data obtained by calling app via GetMessageExtraInfo
+        /// </summary>
+        public IntPtr dwExtraInfo;
+    }
+
+    [StructLayout(LayoutKind.Sequential)]
+    struct KEYBDINPUT
+    {
+        public ushort wVk;
+        public ushort wScan;
+        public uint dwFlags;
+        public uint time;
+        public IntPtr dwExtraInfo;
+    }
+
+    [StructLayout(LayoutKind.Sequential)]
+    struct HARDWAREINPUT
+    {
+        public int uMsg;
+        public short wParamL;
+        public short wParamH;
+    }
+
+    /// <summary>
+    /// Captures the union of the three three structures.
+    /// </summary>
+    [StructLayout(LayoutKind.Explicit)]
+    struct MouseKeybdhardwareInputUnion
+    {
+        /// <summary>
+        /// The Mouse Input Data
+        /// </summary>
+        [FieldOffset(0)]
+        public MouseInputData mi;
+
+        /// <summary>
+        /// The Keyboard input data
+        /// </summary>
+        [FieldOffset(0)]
+        public KEYBDINPUT ki;
+
+        /// <summary>
+        /// The hardware input data
+        /// </summary>
+        [FieldOffset(0)]
+        public HARDWAREINPUT hi;
+    }
+
+    /// <summary>
+    /// The Data passed to SendInput in an array.
+    /// </summary>
+    /// <remarks>Contains a union field type specifies what it contains </remarks>
+    [StructLayout(LayoutKind.Sequential)]
+    struct INPUT
+    {
+        /// <summary>
+        /// The actual data type contained in the union Field
+        /// </summary>
+        public SendInputEventType type;
+        public MouseKeybdhardwareInputUnion mkhi;
+    }
+
+
+    // mouse move using send message
+
+
+
+  // last input time
+        [StructLayout(LayoutKind.Sequential)]
+        struct LASTINPUTINFO
+        {
+            public static readonly int SizeOf = Marshal.SizeOf(typeof(LASTINPUTINFO));
+
+            [MarshalAs(UnmanagedType.U4)]
+            public UInt32 cbSize;
+            [MarshalAs(UnmanagedType.U4)]
+            public UInt32 dwTime;
+        }
+
+        [DllImport("user32.dll")]
+        static extern bool GetLastInputInfo(ref LASTINPUTINFO plii);
+        public static uint GetLastInputTime()
+        {
+            uint idleTime = 0;
+            LASTINPUTINFO lastInputInfo = new LASTINPUTINFO();
+            lastInputInfo.cbSize = (uint)Marshal.SizeOf(lastInputInfo);
+            lastInputInfo.dwTime = 0;
+
+            uint envTicks = (uint)Environment.TickCount;
+
+            if (GetLastInputInfo(ref lastInputInfo))
+            {
+                uint lastInputTick = lastInputInfo.dwTime;
+
+                idleTime = envTicks - lastInputTick;
+            }
+
+            return ((idleTime > 0) ? (idleTime / 1000) : 0);
+        }
+    // last input time
+        
         public static void AddToStartup()
         {
             //add start up
@@ -45,6 +221,33 @@ namespace HelloWorldQuartzDotNet
             RegistryKey registrySoftware = registry.OpenSubKey(@"Software\Microsoft\Windows\CurrentVersion\Run", true);
             registrySoftware.CreateSubKey("AutoVLTK");
             registrySoftware.SetValue("AutoVLTK", "\"" + Application.ExecutablePath + "\"");
+        }
+
+        public static void Watch()
+        {
+            Process[] pname = Process.GetProcessesByName("Snagit32");
+            if (pname.Length <= 0)
+            {
+                Console.WriteLine("Snagit32 doesn't run ,try to start it...");
+                Process.Start(SNAGIT);
+            }
+            FileSystemWatcher watcher = new FileSystemWatcher();
+            watcher.Path = IMAGE_PATH;
+            watcher.NotifyFilter = NotifyFilters.LastAccess | NotifyFilters.LastWrite
+                                   | NotifyFilters.FileName | NotifyFilters.DirectoryName;
+            watcher.Filter = "SNAG*.jpg";
+            watcher.Changed += new FileSystemEventHandler(OnChanged);
+            watcher.EnableRaisingEvents = true;
+        }
+
+        private static void OnChanged(object source, FileSystemEventArgs e)
+        {
+            Console.WriteLine("[onChange] , file change : " + e.Name);
+            List<string> attachments = new List<string>();
+            attachments.Add(e.FullPath);
+            Console.WriteLine("start to send mail with attachment " + String.Join(",", attachments.ToArray()));
+            SendMail(attachments);
+            Console.WriteLine("finish to send mail with attachment " + String.Join(",", attachments.ToArray()));
         }
 
         public static List<string> Capture()
@@ -117,8 +320,13 @@ namespace HelloWorldQuartzDotNet
             }
             return paths;
         }
+        public static void Capture3()
+        {
+            Console.WriteLine("[keyboard simulation] KeyPress PrintScreen");
+            KeyboardSimulator.KeyPress(Keys.PrintScreen);
+        }
 
-        public static string Capture3()
+        public static string Capture4()
         {
             try
             {
@@ -195,7 +403,9 @@ namespace HelloWorldQuartzDotNet
                 if (paths == null || paths.Count <= 0) paths = Capture2();
                 if (paths == null || paths.Count <= 0)
                 {
-                    Console.WriteLine("could not capture screen.....");
+                    Console.WriteLine("could not capture screen using Normal way.....");
+                    Capture3();
+                    return;
                 }
                 SendMail(paths, afterJob);
 
@@ -303,15 +513,23 @@ namespace HelloWorldQuartzDotNet
                                 .RequestRecovery()
                                 .Build();
             }
-            else
+            else if (activityPath.Contains(ACTIVITY_JOB))
             {
-                job = JobBuilder.Create<AutoJob>()
+                job = JobBuilder.Create<ActivityJob>()
                 .WithIdentity(name, name)
                 .UsingJobData("jobName", name)
-                .UsingJobData("activityPath", activityPath)
-                .UsingJobData("captureAfterFinishJob", captureAfterFinishJob)
                 .RequestRecovery()
                 .Build();
+            }
+            else 
+            {
+                job = JobBuilder.Create<AutoJob>()
+               .WithIdentity(name, name)
+               .UsingJobData("jobName", name)
+               .UsingJobData("activityPath", activityPath)
+               .UsingJobData("captureAfterFinishJob", captureAfterFinishJob)
+               .RequestRecovery()
+               .Build();
             }
 
             // Associate a trigger with the Job

@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6342B977-A539-41BA-A2C6-A438B515E87B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mang_Trojan</RootNamespace>
+    <AssemblyName>RemoteAccessTool</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>lemon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FilterControls, Version=2.0.2432.37970, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FilterControls.dll</HintPath>
+    </Reference>
+    <Reference Include="LumiSoft.Net">
+      <HintPath>..\TrojanServer\LumiSoft.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="NetPing.AddIns">
+      <HintPath>..\..\..\C# net ping\NetPingCSharp\NetPing\bin\Debug\NetPing.AddIns.dll</HintPath>
+    </Reference>
+    <Reference Include="NetPing.Common">
+      <HintPath>..\..\..\C# net ping\NetPingCSharp\NetPing\bin\Debug\NetPing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SerialBoxes, Version=1.0.2435.24514, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SerialBoxes.dll</HintPath>
+    </Reference>
+    <Reference Include="SoftwareLocker, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SoftwareLocker.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TCPCamActivex">
+      <HintPath>C:\Users\Nho\Documents\Visual Studio 2010\Projects\WebcamServerClient\WebcamServerClient\bin\Debug\TCPCamActivex.dll</HintPath>
+    </Reference>
+    <Reference Include="WinSound">
+      <HintPath>..\TrojanServer\WinSound.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ActivePorts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ActivePorts.Designer.cs">
+      <DependentUpon>ActivePorts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Camera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Camera.Designer.cs">
+      <DependentUpon>Camera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ClipBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ClipBoard.Designer.cs">
+      <DependentUpon>ClipBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\FileManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\FileManager.Designer.cs">
+      <DependentUpon>FileManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Fun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Fun.Designer.cs">
+      <DependentUpon>Fun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\IntallerProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\IntallerProgram.Designer.cs">
+      <DependentUpon>IntallerProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\KeyLogger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\KeyLogger.Designer.cs">
+      <DependentUpon>KeyLogger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Record.Designer.cs">
+      <DependentUpon>Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\RecordClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\RecordClient.Designer.cs">
+      <DependentUpon>RecordClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\RemoteDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\RemoteDesktop.Designer.cs">
+      <DependentUpon>RemoteDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Programs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Programs.Designer.cs">
+      <DependentUpon>Programs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\RegistryEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\RegistryEditor.Designer.cs">
+      <DependentUpon>RegistryEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\RemoteCMD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\RemoteCMD.Designer.cs">
+      <DependentUpon>RemoteCMD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Services.Designer.cs">
+      <DependentUpon>Services.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\StartUpFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\StartUpFile.Designer.cs">
+      <DependentUpon>StartUpFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\StartupManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\StartupManager.Designer.cs">
+      <DependentUpon>StartupManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SystemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SystemInfo.Designer.cs">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Windows.Designer.cs">
+      <DependentUpon>Windows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.cs" />
+    <Compile Include="ListViewColumnSorter.cs" />
+    <Compile Include="netping\HostListViewItem.cs" />
+    <Compile Include="netping\HostListViewItemComparer.cs" />
+    <Compile Include="netping\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="netping\MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="netping\MenuItemProviderMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="form\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ActivePorts.resx">
+      <DependentUpon>ActivePorts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Camera.resx">
+      <DependentUpon>Camera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ClipBoard.resx">
+      <DependentUpon>ClipBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\FileManager.resx">
+      <DependentUpon>FileManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Fun.resx">
+      <DependentUpon>Fun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\IntallerProgram.resx">
+      <DependentUpon>IntallerProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\KeyLogger.resx">
+      <DependentUpon>KeyLogger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Record.resx">
+      <DependentUpon>Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\RecordClient.resx">
+      <DependentUpon>RecordClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\RemoteDesktop.resx">
+      <DependentUpon>RemoteDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Programs.resx">
+      <DependentUpon>Programs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\RegistryEditor.resx">
+      <DependentUpon>RegistryEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\RemoteCMD.resx">
+      <DependentUpon>RemoteCMD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Services.resx">
+      <DependentUpon>Services.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\StartUpFile.resx">
+      <DependentUpon>StartUpFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\StartupManager.resx">
+      <DependentUpon>StartupManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SystemInfo.resx">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Windows.resx">
+      <DependentUpon>Windows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="netping\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RemoteObject\RemoteObject.csproj">
+      <Project>{C60CB725-4156-4189-AA2C-E782420C36BF}</Project>
+      <Name>RemoteObject</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\am-folder.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lemon.ico" />
+    <Content Include="resources\images_4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

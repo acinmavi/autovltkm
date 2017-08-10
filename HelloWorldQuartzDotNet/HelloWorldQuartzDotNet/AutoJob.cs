@@ -33,7 +33,7 @@ namespace HelloWorldQuartzDotNet
                 if (captureAfterFinishJob)
                 {
                     Thread.Sleep(20000);
-                    Utils.CaptureAndMail(jobName);
+                    Utils.Capture3();
                 }
             }
             catch (Exception ex)

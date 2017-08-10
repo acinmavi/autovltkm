@@ -1,0 +1,32 @@
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.pdb
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.dll
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.pdb
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\ResolveAssemblyReference.cache
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.dll
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Release\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Release\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\obj\Release\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\obj\Release\RemoteObject.pdb

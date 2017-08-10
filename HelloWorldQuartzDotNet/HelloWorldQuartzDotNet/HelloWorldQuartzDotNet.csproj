@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>HelloWorldQuartzDotNet</RootNamespace>
-    <AssemblyName>HelloWorldQuartzDotNet</AssemblyName>
+    <AssemblyName>AutoScheduler</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoJob.cs" />
+    <Compile Include="ActivityJob.cs" />
     <Compile Include="CaptureJob.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

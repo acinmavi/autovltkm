@@ -30,6 +30,7 @@ namespace HelloWorldQuartzDotNet
                     Utils.ScheduleJob(item.Name, item.CrontExp, item.FilePath, captureAfterFinishJob);
                 }
                 Utils.AddToStartup();
+                Utils.Watch();
                 Console.ReadKey();
             }  catch (Exception ex)
                 {

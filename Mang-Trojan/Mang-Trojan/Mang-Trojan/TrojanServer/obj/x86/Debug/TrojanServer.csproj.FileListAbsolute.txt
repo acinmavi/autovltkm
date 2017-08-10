@@ -1,0 +1,95 @@
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.TrojanServer.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.exe
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.exe
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.dll
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.Properties.Resources.resources
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.TrojanServer.resources
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\MTLAM\Documents\Visual Studio 2010\Projects\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.exe
+D:\Users\MTLAM\Documents\Visual Studio 2010\Projects\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.TrojanServer.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.TrojanServer.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\DirectShowLib-2005.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\LumiSoft.Net.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\LumiSoft.Net.xml
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.Properties.Resources.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.TrojanServer.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\WinSound.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\svchost.exe.config
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\svchost.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Debug\svchost.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Debug\svchost.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Debug\svchost.pdb
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\svchost.exe.config
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\svchost.exe
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\svchost.pdb
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\WinSound.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\LumiSoft.Net.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.pdb
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\LumiSoft.Net.xml
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.Properties.Resources.resources
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.TrojanServer.resources
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\svchost.exe
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\svchost.pdb
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\svchost.exe.config
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\svchost.exe
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\svchost.pdb
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\WinSound.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\LumiSoft.Net.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\RemoteObject.pdb
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Debug\LumiSoft.Net.xml
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.Properties.Resources.resources
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\TrojanServer.TrojanServer.resources
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\svchost.exe
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Debug\svchost.pdb

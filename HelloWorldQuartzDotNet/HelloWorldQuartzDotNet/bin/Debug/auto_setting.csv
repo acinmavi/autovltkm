@@ -1,4 +1,23 @@
 name,cron_expression,file_path
-auto1,0 * * * * ? *,D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\Data\02072017-214129
-auto2,20 * * * * ? *,D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\Data\02072017-214136
-auto3,40 * * * * ? *,D:\Setup\AutoGame\AutoVltkm\autovltkm\MouseKeyboardLibrary\AutoVL\bin\Debug\Data\02072017-215459
+TatPNS1,00 27 12 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VePhucNguuSon
+VeBangHoi12h1,00 28 12 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VeBangHoi
+VeBangHoi12h2,45 28 12 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VeBangHoi
+Capture12h1,00 29 12 * * ? *,CAPTURE_JOB
+MCVL12h,45 29 12 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\MCVL
+Capture12h2,15 30 12 * * ? *,CAPTURE_JOB
+BatPNS,00 45 12 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VePhucNguuSon
+Capture12h3,15 46 12 * * ? *,CAPTURE_JOB
+TatPNS2,00 12 19 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VePhucNguuSon
+Capture19h0,30 12 19 * * ? *,CAPTURE_JOB
+VeBangHoi19h1,00 13 19 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VeBangHoi
+VeBangHoi19h2,00 14 19 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VeBangHoi
+Capture19h1,15 15 19 * * ? *,CAPTURE_JOB
+MCVL19h,45 29 19 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\MCVL
+Capture19h2,15 30 19 * * ? *,CAPTURE_JOB
+BatPNS2,00 45 19 * * ? *,E:\Setup\All\AutoVLM Pro\MouseOnly\Debug\Data\VePhucNguuSon
+Capture19h3,15 46 19 * * ? *,CAPTURE_JOB
+Capture1,00 00 * * * ? *,CAPTURE_JOB
+Capture2,00 15 * * * ? *,CAPTURE_JOB
+Capture3,00 30 * * * ? *,CAPTURE_JOB
+Capture4,00 45 * * * ? *,CAPTURE_JOB
+Activity1,00 * * * * ? *,ACTIVITY_JOB

@@ -1,0 +1,212 @@
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.exe
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ActivePorts.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ClipBoard.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.CreateStartup.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.FileManager.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Fun.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.IntallerProgram.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Main.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.PasswordsRetriever.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDesktop.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Programs.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RegistryEditor.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteCMD.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDownload.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Services.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartupManager.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.SystemInfo.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Webcam.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Windows.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Resource1.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.KeyLogger.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.exe
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.pdb
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.dll
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.pdb
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ActivePorts.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ClipBoard.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.CreateStartup.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.FileManager.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Form1.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Fun.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.IntallerProgram.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.KeyLogger.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Main.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Massage.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.PasswordsRetriever.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDesktop.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ServerIP.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Programs.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RegistryEditor.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteCMD.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDownload.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Services.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartupManager.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.SystemInfo.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Webcam.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Windows.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Properties.Resources.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Resource1.resources
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+H:\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ActivePorts.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ClipBoard.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.CreateStartup.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.FileManager.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Fun.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.IntallerProgram.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.KeyLogger.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Main.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.PasswordsRetriever.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDesktop.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Programs.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RegistryEditor.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteCMD.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDownload.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Services.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartupManager.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.SystemInfo.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Webcam.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Windows.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Resource1.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.exe
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.pdb
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.dll
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.pdb
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.About.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ActivePorts.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ClipBoard.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.CreateStartup.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.FileManager.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Fun.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.IntallerProgram.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.KeyLogger.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Main.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.PasswordsRetriever.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDesktop.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Programs.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RegistryEditor.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteCMD.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDownload.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Services.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartupManager.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.SystemInfo.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Webcam.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Windows.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Properties.Resources.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Resource1.resources
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.About.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ActivePorts.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ClipBoard.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.FileManager.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Fun.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.IntallerProgram.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.KeyLogger.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Main.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDesktop.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Programs.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RegistryEditor.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteCMD.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Services.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartupManager.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.SystemInfo.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Windows.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Resource1.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartUpFile.resources
+C:\Users\BT\Desktop\LTM\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+C:\Users\BT\Desktop\LTM\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.About.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ActivePorts.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ClipBoard.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.FileManager.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Fun.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.IntallerProgram.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.KeyLogger.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Main.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDesktop.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Programs.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RegistryEditor.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteCMD.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Services.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartUpFile.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartupManager.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.SystemInfo.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Windows.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Properties.Resources.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Resource1.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.read.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.write.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\Mang-Trojan\bin\Release\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\bin\Release\Mang-Trojan.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\bin\Release\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\bin\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.About.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ActivePorts.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.ClipBoard.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.FileManager.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Fun.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.IntallerProgram.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.KeyLogger.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Main.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteDesktop.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Programs.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RegistryEditor.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.RemoteCMD.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Services.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartUpFile.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.StartupManager.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.SystemInfo.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.form.Windows.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Properties.Resources.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang_Trojan.Resource1.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.read.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\GenerateResource.write.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\obj\x86\Release\Mang-Trojan.pdb

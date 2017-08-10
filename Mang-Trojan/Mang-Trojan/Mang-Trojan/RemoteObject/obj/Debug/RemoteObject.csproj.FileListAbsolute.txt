@@ -1,0 +1,44 @@
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.pdb
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.dll
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.pdb
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.dll
+H:\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Debug\LumiSoft.Net.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\bin\Debug\LumiSoft.Net.xml
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.pdb
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.pdb
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\LumiSoft.Net.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\LumiSoft.Net.xml
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.dll
+E:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.pdb
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\RemoteObject.pdb
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\LumiSoft.Net.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\bin\Debug\LumiSoft.Net.xml
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.dll
+D:\Dropbox\DungNT\My Project\Mang-Trojan\Mang-Trojan\RemoteObject\obj\Debug\RemoteObject.pdb

@@ -1,0 +1,79 @@
+13,1,Daytime = Time of day
+21,1,Ftp = File Transfer Protocol
+22,1,Ssh = Remote Login Protocol
+23,1,Telnet = Remote Login Protocol
+25,1,Smtp = Simple Mail Transfer Protocol
+42,0,NameServer = WINS Host Name Server
+53,1,Domain = Domain Name Server
+79,1,Finger
+80,1,Http = World Wide Web
+98,1,linuxconf
+109,1,Pop2 = Post Office Protocol 2
+110,1,Pop3 = Post Office Protocol 3
+111,1,SunRPC = SUN Remote Procedure Call
+113,1,identd = Authentication Service
+118,0,SqlServ = SQL Services
+135,0,epmap = DCE endpoint resolution
+139,1,Netbios-ssn = NETBIOS Session Service
+156,0,Sqlsrv = SQL Services
+179,0,BGP = Border Gateway Protocol
+371,0,Clearcase
+443,1,HttpS = Secure HTTP
+445,1,Microsoft-Ds
+512,1,Exec = Remote process execution
+513,1,Login = Remote login (a la telnet)
+514,1,Shell = cmd
+515,1,printer = Printer Spooler
+540,0,uucp
+1080,1,Socks
+1433,0,Microsoft SQL server
+1494,0,Citrix  ICA = Remote Control Software
+1993,1,Cisco SNMP
+1999,1,Cisco identd 
+2049,0,NFS = Network File System
+3128,1,Proxy/Socks
+3389,0,Terminal Services
+5631,0,pcANYWHEREdata = Remote Control Software
+5632,0,pcANYWHEREstat = Remote Control Software
+6789,0,IBM DB2
+6790,0,IBM DB2
+9100,0,JetDirect = HP Jetdirect PrintServer
+8080,0,Http-Proxy
+43188,0,ReachOut = Remote Control Software
+25867,0,WebCam32 = WebCam32 Admin
+5800,1,VNC = Remote Control Software
+407,1,Timbuktu = Remote Control Software
+800,1,Remotely Possible / ControlIT = Remote Control Software
+799,1,Remotely Possible / ControlIT = Remote Control Software
+2000,1,Remotely Anywhere = Remote Control Software
+2001,1,Remotely Anywhere = Remote Control Software
+119,1,News
+311,1,AppleShare = Web-Admin
+389,1,LDAP = Light Directory Access Protocol
+548,1,AFP = Apple File Share
+40450,lockd = NFS File Locking
+6699,1,Napster
+6346,1,GNUTella
+427,1,SLP = Service Location Protocol
+4001,1,Cisco Virtual Terminal
+6001,1,Cisco virtual Terminal
+8888,0,AnswerBook2
+9001,1,Cisco XRemote Service
+*12345,1,Netbus 
+*20034,1,Netbus Pro 
+*31337,1,Back Oriffice 
+*27374,1,Subseven 
+*6670,1,Deep Throat 
+*2583,1,Wincrash2 
+*30999,1,Kuang 
+*5400,1,Blade Runner
+*44444,1,Prosiak 
+*1015,1,Doly 
+*31787,1,Hack'a'tack 
+*17300,1,Kuang2 
+*5550,1,Xtcp 2.0x 
+*9400,1,InCommand 
+*5882,1,Y3k 
+*23432,1,Asylum 
+*12349,1,Bionet 
+*17569,1,Infector 

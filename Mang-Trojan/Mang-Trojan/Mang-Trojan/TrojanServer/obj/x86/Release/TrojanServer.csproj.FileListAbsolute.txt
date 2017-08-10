@@ -1,0 +1,72 @@
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.TrojanServer.resources
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.exe
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.exe
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.dll
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.pdb
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.Properties.Resources.resources
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.TrojanServer.resources
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.TrojanServer.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.pdb
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.exe
+D:\Users\MTLAM\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.exe
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\TrojanServer.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.dll
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.pdb
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.Properties.Resources.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.TrojanServer.resources
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BT\Desktop\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan-Final\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource.write.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.Properties.Resources.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.TrojanServer.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\conhost.exe.config
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\conhost.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\conhost.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\conhost.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\Mang-Trojan\TrojanServer\obj\x86\Release\conhost.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Release\Interop.IWshRuntimeLibrary.dll
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Release\RemoteObject.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Release\ResolveAssemblyReference.cache
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.Properties.Resources.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Release\TrojanServer.TrojanServer.resources
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Release\aviraUpdate.exe.config
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Release\aviraUpdate.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\bin\Release\aviraUpdate.pdb
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Release\aviraUpdate.exe
+E:\tai lieu\My HandMade Soft\Source\Mang-Trojan\TrojanServer\obj\x86\Release\aviraUpdate.pdb

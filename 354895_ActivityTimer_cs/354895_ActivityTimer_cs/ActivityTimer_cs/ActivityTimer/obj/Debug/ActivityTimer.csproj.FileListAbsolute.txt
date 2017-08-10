@@ -1,0 +1,9 @@
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\bin\Debug\ActivityTimer.exe
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\bin\Debug\ActivityTimer.pdb
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\obj\Debug\ActivityTimer.MainForm.resources
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\obj\Debug\ActivityTimer.Properties.Resources.resources
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\obj\Debug\ActivityTimer.exe
+C:\Users\Nho\Desktop\354895_ActivityTimer_cs\ActivityTimer_cs\ActivityTimer\obj\Debug\ActivityTimer.pdb
